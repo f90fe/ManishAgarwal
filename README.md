@@ -1,1 +1,7 @@
-# ManishAgarwal
+<p style="animation: fadein 2s; font-size: medium">
+Hey there! 👋 I am Manish Agarwal, Accomplished Software Engineer with over 12 years of expertise in designing and implementing high-performance software solutions for top tech firms and dynamic startups. Skilled in distributed systems, microservices, and cloud platforms (AWS, Azure), with a strong track record in cost reduction, performance optimization, and team leadership.<br><br>- ✨ Recognized for strategic problemsolving and delivering scalable solutions that drive operational efficiency and business impact..
+  <br>- 📚 I'm currently exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), and other related topics.
+  <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
+  <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
+  <br>Feel free to explore my projects and <a href="https://www.linkedin.com/in/manishagarwal22/" > get in touch</a> for collaborations!<br>
+</p>
