@@ -3,7 +3,7 @@
 <div style="position: relative; text-align: center;">
   <img src="assets/namaste-programmer.png" alt="Namaste Programmer" width="900" height="400"/>
   <div style="position: absolute; top: 0%; left: 50%; transform: translate(-50%, -10%); color: white; font-size: 20px; font-family: monospace;">
-  <img src="https://readme-typing-svg.demolab.com/?font=Merriweather&size=32&duration=2800&pause=2000&color=964B00&center=false&vCenter=false&width=540&multiline=true&lines=Namaste%2C+I'm+Manish+Agarwal+and+Welcome+to+my+Profile!" alt="Namaste, I'm Manish Agarwal and Welcome to my Profile! animated typed out" width="95%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Merriweather&size=32&duration=2800&pause=2000&color=964B00&center=false&vCenter=false&width=540&multiline=true&lines=Namaste%2C+I'm+Manish+Agarwal!"  width="95%" align="left"/>
   </div>
 </div>
 
@@ -11,7 +11,7 @@
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/f90fe/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/f90fe" target="_blank"> </>
+    <a href="https://github.com/f90fe" target="_blank"> </a>
 
 
 <div align="left"> 
@@ -20,7 +20,7 @@ Hey there! 👋 I am Manish Agarwal, Accomplished Software Engineer with over 12
   <br>- 📚 I'm currently exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), and other related topics.
   <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
   <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
-  <br>Feel free to explore my <a href="https://www.linkedin.com/in/manishagarwal22/" > profile </a> and get in touch for collaborations!<br>
+  <br>Feel free to explore my <a href="https://www.linkedin.com/in/manishagarwal22/">profile</a> and get in touch for collaborations!<br>
 </p>
 
 <h2 align="center"> 🔥 My Tech Stacks! </h2>
