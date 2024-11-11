@@ -11,7 +11,7 @@
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/f90fe/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/f90fe" target="_blank"> </a>
+</div>
 
 
 <div align="left"> 
@@ -22,6 +22,7 @@ Hey there! 👋 I am Manish Agarwal, Accomplished Software Engineer with over 12
   <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
   <br>Feel free to explore my <a href="https://www.linkedin.com/in/manishagarwal22/">profile</a> and get in touch for collaborations!<br>
 </p>
+</div>
 
 <h2 align="center"> 🔥 My Tech Stacks! </h2>
 
