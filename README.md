@@ -1,9 +1,9 @@
 # 🙏 Namaste and Welcome!
 
 <div style="position: relative; text-align: center;">
-  <img src="assets/namaste-programmer.png" alt="Namaste Programmer" width="900" height="400"/>
+  <img src="assets/namaste-programmer.png" alt="Namaste Programmer" width="900" height="300"/>
   <div style="position: absolute; top: 0%; left: 50%; transform: translate(-50%, -10%); color: white; font-size: 20px; font-family: monospace;">
-  <img src="https://readme-typing-svg.demolab.com/?font=Merriweather&size=32&duration=2800&pause=2000&color=964B00&center=false&vCenter=false&width=540&multiline=true&lines=Namaste%2C+I'm+Manish+Agarwal!"  width="95%" align="left"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Merriweather&size=32&duration=2800&pause=2000&color=964B00&center=false&vCenter=false&width=540&multiline=true&lines=Namaste%2C+I'm+Manish+Agarwal!"  width="95%" align="left"/>
   </div>
 </div>
 
