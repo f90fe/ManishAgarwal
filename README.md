@@ -1,4 +1,4 @@
-# 🙏 Namaste and Welcome!
+<h1 align="center"> 🙏 Namaste and Welcome! </h1>
 
 <div style="position: relative; text-align: center;">
   <img src="assets/namaste-programmer.png" alt="Namaste Programmer" width="900" height="300"/>
@@ -7,10 +7,8 @@
   </div>
 </div>
 
-
-
-
-
+<h1 align="center"> 📓 My Profile! </h2>
+<h2 align="center"> 📃 Summary </h2>
 <div align="left"> 
 <p style="animation: fadein 2s; font-size: medium">
 Hey there! 👋 I am Manish Agarwal, Accomplished Software Engineer with over 12 years of expertise in designing and implementing high-performance software solutions for top tech firms and dynamic startups. Skilled in distributed systems, microservices, and cloud platforms (AWS, Azure), with a strong track record in cost reduction, performance optimization, and team leadership.<br><br>- ✨ Recognized for strategic problemsolving and delivering scalable solutions that drive operational efficiency and business impact..
@@ -39,7 +37,7 @@ Hey there! 👋 I am Manish Agarwal, Accomplished Software Engineer with over 12
 
 
 <h2 align="center"> 📫 Get in Touch </h2>
- 
+
 - LinkedIn: [manishagarwal22](https://www.linkedin.com/in/manishagarwal22/)
 - Email: [manishagarwal.dev@gmail.com](mailto:manishagarwal.dev@gmail.com)
 
