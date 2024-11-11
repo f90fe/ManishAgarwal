@@ -8,10 +8,7 @@
 </div>
 
 
-<div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/f90fe/count.svg"  alt="profile vistor count"/><br><br>
-</div>
+
 
 
 <div align="left"> 
@@ -41,6 +38,12 @@ Hey there! 👋 I am Manish Agarwal, Accomplished Software Engineer with over 12
 </div>
 
 
-## 📫 Get in Touch
+<h2 align="center"> 📫 Get in Touch </h2>
+ 
 - LinkedIn: [manishagarwal22](https://www.linkedin.com/in/manishagarwal22/)
 - Email: [manishagarwal.dev@gmail.com](mailto:manishagarwal.dev@gmail.com)
+
+<div align="center"> 
+<p style="font-size: large"><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/f90fe/count.svg"  alt="profile vistor count"/><br><br>
+</div>
